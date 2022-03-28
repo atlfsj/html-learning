@@ -69,6 +69,7 @@ console.log(a)
     </code>
     </pre>
 ```
+* [meta：vp完整代码](http://blog.yingj.net/archives/vscodematevp)
 * 网站连接,taget=blank表示新窗口打开，不加会在当前页面打开
 ```
 <a href="http://qq.com" target="_blank_">qq</a>
