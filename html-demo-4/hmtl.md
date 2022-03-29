@@ -41,8 +41,9 @@
 
 * 部署到github page里(复习VScode提交代码到github)
     1. github新建库，分别复制or push an...的代码
-    2. 终端
+    2. 终端（若无.git文件要先init初始化仓库）
     ```
+    git init
     git status
     gst
     ga .
